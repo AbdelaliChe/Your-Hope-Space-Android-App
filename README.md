@@ -39,4 +39,4 @@ contains general advice about how to stay well and how to use the app.
 
 ## Contributors
  - [Essabri Fatima Zahrae](https://github.com/Essabri7778)
- - [Chentoui Abdelali](https://github.com/AbdelaliChe)
+ - [Benmamoun Nassim](https://github.com/nassimBenmamoun)
